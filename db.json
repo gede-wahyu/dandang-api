@@ -132,6 +132,7 @@
             "name": "depo",
             "username": "depo",
             "email": "depo@mail.com",
+            "password": "123456",
             "role": "depo",
             "id_role": 1
         },
@@ -140,6 +141,7 @@
             "name": "saler to",
             "username": "salerto",
             "email": "salerto@mail.com",
+            "password": "123456",
             "role": "sales to",
             "id_role": 2
         },
@@ -148,6 +150,7 @@
             "name": "saler mobilis",
             "username": "salermobilis",
             "email": "salermobilis@mail.com",
+            "password": "123456",
             "role": "sales mobilis",
             "id_role": 3
         },
@@ -156,6 +159,7 @@
             "name": "saler motoris",
             "username": "salermotoris",
             "email": "salermotoris@mail.com",
+            "password": "123456",
             "role": "sales motoris",
             "id_role": 4
         },
@@ -164,6 +168,7 @@
             "name": "driver",
             "username": "driver",
             "email": "driver@mail.com",
+            "password": "123456",
             "role": "driver",
             "id_role": 4
         }
