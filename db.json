@@ -124,5 +124,48 @@
             "currency": "IDR",
             "percentage": 2.3
         }
+    ],
+
+    "users": [
+        {
+            "id": 1,
+            "name": "depo",
+            "username": "depo",
+            "email": "depo@mail.com",
+            "role": "depo",
+            "id_role": 1
+        },
+        {
+            "id": 2,
+            "name": "saler to",
+            "username": "salerto",
+            "email": "salerto@mail.com",
+            "role": "sales to",
+            "id_role": 2
+        },
+        {
+            "id": 3,
+            "name": "saler mobilis",
+            "username": "salermobilis",
+            "email": "salermobilis@mail.com",
+            "role": "sales mobilis",
+            "id_role": 3
+        },
+        {
+            "id": 4,
+            "name": "saler motoris",
+            "username": "salermotoris",
+            "email": "salermotoris@mail.com",
+            "role": "sales motoris",
+            "id_role": 4
+        },
+        {
+            "id": 5,
+            "name": "driver",
+            "username": "driver",
+            "email": "driver@mail.com",
+            "role": "driver",
+            "id_role": 4
+        }
     ]
 }
