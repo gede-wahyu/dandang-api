@@ -172,5 +172,78 @@
             "role": "driver",
             "id_role": 4
         }
+    ],
+
+    "customers": [
+        {
+            "id": 1,
+            "name": "Customer 1",
+            "code": "cst0001",
+            "address": "Address for customer",
+            "contact": "081234567890"
+        },
+        {
+            "id": 2,
+            "name": "Customer 2",
+            "code": "cst0002",
+            "address": "Address for customer",
+            "contact": "081234567891"
+        },
+        {
+            "id": 3,
+            "name": "Customer 3",
+            "code": "cst0003",
+            "address": "Address for customer",
+            "contact": "081234567892"
+        },
+        {
+            "id": 4,
+            "name": "Customer 4",
+            "code": "cst0004",
+            "address": "Address for customer",
+            "contact": "081234567893"
+        },
+        {
+            "id": 5,
+            "name": "Customer 5",
+            "code": "cst0005",
+            "address": "Address for customer",
+            "contact": "081234567894"
+        },
+        {
+            "id": 6,
+            "name": "Customer 6",
+            "code": "cst0006",
+            "address": "Address for customer",
+            "contact": "081234567895"
+        },
+        {
+            "id": 7,
+            "name": "Customer 7",
+            "code": "cst0007",
+            "address": "Address for customer",
+            "contact": "081234567896"
+        },
+        {
+            "id": 8,
+            "name": "Customer 8",
+            "code": "cst0008",
+            "address": "Address for customer",
+            "contact": "081234567897"
+        },
+        {
+            "id": 9,
+            "name": "Customer 9",
+            "code": "cst0009",
+            "address": "Address for customer",
+            "contact": "081234567898"
+        },
+        {
+            "id": 10,
+            "name": "Customer 10",
+            "code": "cst0010",
+            "address": "Address for customer",
+            "contact": "081234567899"
+        }
     ]
 }
