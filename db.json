@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "dandang selection",
-            "description": "Dandang Selection merupakan daun teh pilihan yang diolah tradisional. Seduhan teh pekat dan aroma wangi daun teh pilihan \"daging daun teh lebih tebal dari daging daun teh biasa\"",
+            "description": "Description of dandang selection",
             "size": 45,
             "uom": "grams",
             "price": 5000,
@@ -15,7 +15,7 @@
         {
             "id": 2,
             "name": "dandang selection",
-            "description": "Dandang Selection merupakan daun teh pilihan yang diolah tradisional. Seduhan teh pekat dan aroma wangi daun teh pilihan \"daging daun teh lebih tebal dari daging daun teh biasa\"",
+            "description": "Description of dandang selection",
             "size": 400,
             "uom": "grams",
             "price": 7000
@@ -23,7 +23,7 @@
         {
             "id": 3,
             "name": "dandang merah",
-            "description": "Dandang Merah merupakan daun teh yang diolah tradisional. Aroma wangi daun teh yang kuat menciptakan kesegaran tersendiri.",
+            "description": "Description of dandang merah",
             "size": 40,
             "uom": "grams",
             "price": 5000
@@ -31,7 +31,7 @@
         {
             "id": 4,
             "name": "dandang merah",
-            "description": "Dandang Merah merupakan daun teh yang diolah tradisional. Aroma wangi daun teh yang kuat menciptakan kesegaran tersendiri.",
+            "description": "Description of dandang merah",
             "size": 80,
             "uom": "grams",
             "price": 8000
@@ -39,7 +39,7 @@
         {
             "id": 5,
             "name": "dandang merah",
-            "description": "Dandang Merah merupakan daun teh yang diolah tradisional. Aroma wangi daun teh yang kuat menciptakan kesegaran tersendiri.",
+            "description": "Description of dandang merah",
             "size": 400,
             "uom": "grams",
             "price": 15000
@@ -47,7 +47,7 @@
         {
             "id": 6,
             "name": "dandang biru",
-            "description": "Dandang Biru merupakan daun teh yang diolah tradisional. Seduhan warna merah pekat dan aroma wangi ringan.",
+            "description": "Description of dandang biru",
             "size": 40,
             "uom": "grams",
             "price": 5000
@@ -55,7 +55,7 @@
         {
             "id": 7,
             "name": "dandang biru",
-            "description": "Dandang Biru merupakan daun teh yang diolah tradisional. Seduhan warna merah pekat dan aroma wangi ringan.",
+            "description": "Description of dandang biru",
             "size": 80,
             "uom": "grams",
             "price": 7000
@@ -63,15 +63,14 @@
         {
             "id": 8,
             "name": "dandang biru",
-            "description": "Dandang Biru merupakan daun teh yang diolah tradisional. Seduhan warna merah pekat dan aroma wangi ringan.",
+            "description": "Description of dandang biru",
             "size": 400,
             "uom": "grams",
             "price": 13000
         },
         {
             "id": 9,
-            "name": "dandang putih",
-            "description": "Dandang Putih merupakan daun teh yang diolah tradisional. Seduhan teh dengan rasa ringan dan aroma wangi khas daun teh. Cocok bagi penikmat teh dengan rasa yang ringan.",
+            "name": "Description of dandang putih",
             "size": 35,
             "uom": "grams",
             "price": 7000
@@ -79,7 +78,7 @@
         {
             "id": 10,
             "name": "dandang hijau",
-            "description": "Dandang Hijau merupakan daun teh yang diolah tradisional. Aroma wangi daun teh dengan karakter ringan dan unik.",
+            "description": "Description of dandang hijau",
             "size": 35,
             "uom": "grams",
             "price": 6000
@@ -87,7 +86,7 @@
         {
             "id": 11,
             "name": "dandang kraff",
-            "description": "Dandang Kraff merupakan daun teh yang diolah tradisional. Seduhan warna merah pekat dan aroma wangi daun teh yang kuat.",
+            "description": "Description of dandang kraff",
             "size": 35,
             "uom": "grams",
             "price": 9000
@@ -95,7 +94,7 @@
         {
             "id": 12,
             "name": "dandang vanilla tea",
-            "description": "Terbuat dari daun teh pilihan yang dikombinasikan dengan vanilla. Memiliki aroma ringan vanilla. Biasa disajikan oleh Rumah Makan Padang.",
+            "description": "Description of dandang vanilla tea",
             "size": 50,
             "uom": "grams",
             "price": 6000
@@ -104,7 +103,7 @@
         {
             "id": 13,
             "name": "dandang jasmine tea celup",
-            "description": "Terbuat dari teh hijau yang diolah secara tradisional & bunga melati sebagai aroma yang dapat memberikan sensasi santai sebelum beraktifitas.",
+            "description": "Description of dandang jasmine tea celup",
             "size": 8,
             "uom": "pcs",
             "price": 7000
@@ -112,7 +111,7 @@
         {
             "id": 14,
             "name": "dandang jasmine tea celup",
-            "description": "Terbuat dari teh hijau yang diolah secara tradisional & bunga melati sebagai aroma yang dapat memberikan sensasi santai sebelum beraktifitas.",
+            "description": "Description of dandang jasmine tea celup",
             "size": 25,
             "uom": "pcs",
             "price": 14000
@@ -120,7 +119,7 @@
         {
             "id": 15,
             "name": "dandang jasmine tea celup",
-            "description": "Terbuat dari teh hijau yang diolah secara tradisional & bunga melati sebagai aroma yang dapat memberikan sensasi santai sebelum beraktifitas.",
+            "description": "Description of dandang jasmine tea celup",
             "size": 100,
             "uom": "pcs",
             "price": 31000
@@ -129,7 +128,7 @@
         {
             "id": 16,
             "name": "dandang black tea celup",
-            "description": "Terbuat dari teh hitam yang diolah secara tradisional & dapat di kombinasikan dengan susu & cocok untuk tubuh anda yang lelah seharian beraktifitas. lebih cocok diminum dalam keadaan dingin.",
+            "description": "Description of dandang black tea celup",
             "size": 4,
             "uom": "pcs",
             "price": 7000
@@ -137,7 +136,7 @@
         {
             "id": 17,
             "name": "dandang black tea celup",
-            "description": "Terbuat dari teh hitam yang diolah secara tradisional & dapat di kombinasikan dengan susu & cocok untuk tubuh anda yang lelah seharian beraktifitas. lebih cocok diminum dalam keadaan dingin.",
+            "description": "Description of dandang black tea celup",
             "size": 25,
             "uom": "pcs",
             "price": 13000
@@ -145,7 +144,7 @@
         {
             "id": 18,
             "name": "dandang black tea celup",
-            "description": "Terbuat dari teh hitam yang diolah secara tradisional & dapat di kombinasikan dengan susu & cocok untuk tubuh anda yang lelah seharian beraktifitas. lebih cocok diminum dalam keadaan dingin.",
+            "description": "Description of dandang black tea celup",
             "size": 100,
             "uom": "pcs",
             "price": 26000
@@ -154,7 +153,7 @@
         {
             "id": 19,
             "name": "dandang green tea celup",
-            "description": "Terbuat dari daun teh hijau asli kaya manfaat, aroma khas teh hijau dengan rasa sepat kuat.",
+            "description": "Description of dandang green tea celup",
             "size": 25,
             "uom": "pcs",
             "price": 12000
@@ -162,7 +161,7 @@
         {
             "id": 20,
             "name": "dandang green tea celup",
-            "description": "Terbuat dari daun teh hijau asli kaya manfaat, aroma khas teh hijau dengan rasa sepat kuat.",
+            "description": "Description of dandang green tea celup",
             "size": 100,
             "uom": "pcs",
             "price": 45000
@@ -170,7 +169,7 @@
         {
             "id": 21,
             "name": "dandang vanilla tea celup",
-            "description": "Perpaduan teh hitam pilihan dan vanila memberikan aroma kesegaran yang khas dengan rasa teh yang ringan.",
+            "description": "Description of dandang vanilla tea celup",
             "size": 25,
             "uom": "pcs",
             "price": 10000
@@ -178,7 +177,7 @@
         {
             "id": 22,
             "name": "dandang vanilla tea celup",
-            "description": "Perpaduan teh hitam pilihan dan vanila memberikan aroma kesegaran yang khas dengan rasa teh yang ringan.",
+            "description": "Description of dandang vanilla tea celup",
             "size": 100,
             "uom": "pcs",
             "price": 38000
@@ -186,37 +185,10 @@
         {
             "id": 23,
             "name": "dandang teh gula",
-            "description": "Teh Celup dengan campuran Gula pasir. Biasa disebut Teh Manis sebagai minuman yang paling sering dikonsumsi oleh orang Indonesia. Dapat disajikan dengan menggunakan es batu.",
+            "description": "Description of dandang teh gula",
             "size": 18,
             "uom": "grams",
             "price": 4000
-        }
-    ],
-
-    "reports": [
-        {
-            "period": "today",
-            "amount": 576000,
-            "currency": "IDR",
-            "percentage": -0.7
-        },
-        {
-            "period": "week",
-            "amount": 215000,
-            "currency": "IDR",
-            "percentage": 6.2
-        },
-        {
-            "period": "month",
-            "amount": 4234000,
-            "currency": "IDR",
-            "percentage": -1
-        },
-        {
-            "period": "year",
-            "amount": 10291000,
-            "currency": "IDR",
-            "percentage": 2.3
         }
     ],
 
@@ -303,41 +275,6 @@
             "code": "cst0005",
             "address": "Address for customer",
             "contact": "081234567894"
-        },
-        {
-            "id": 6,
-            "name": "Customer 6",
-            "code": "cst0006",
-            "address": "Address for customer",
-            "contact": "081234567895"
-        },
-        {
-            "id": 7,
-            "name": "Customer 7",
-            "code": "cst0007",
-            "address": "Address for customer",
-            "contact": "081234567896"
-        },
-        {
-            "id": 8,
-            "name": "Customer 8",
-            "code": "cst0008",
-            "address": "Address for customer",
-            "contact": "081234567897"
-        },
-        {
-            "id": 9,
-            "name": "Customer 9",
-            "code": "cst0009",
-            "address": "Address for customer",
-            "contact": "081234567898"
-        },
-        {
-            "id": 10,
-            "name": "Customer 10",
-            "code": "cst0010",
-            "address": "Address for customer",
-            "contact": "081234567899"
         }
     ]
 }
