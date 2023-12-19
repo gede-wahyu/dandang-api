@@ -7,10 +7,7 @@
             "size": 45,
             "uom": "grams",
             "price": 5000,
-            "packaging": [
-                { "size": 45, "uom": "grams", "price": 5000 },
-                { "size": 400, "uom": "grams", "price": 7000 }
-            ]
+            "stock": 100
         },
         {
             "id": 2,
@@ -18,7 +15,8 @@
             "description": "Description of dandang selection",
             "size": 400,
             "uom": "grams",
-            "price": 7000
+            "price": 7000,
+            "stock": 100
         },
         {
             "id": 3,
@@ -26,7 +24,8 @@
             "description": "Description of dandang merah",
             "size": 40,
             "uom": "grams",
-            "price": 5000
+            "price": 5000,
+            "stock": 100
         },
         {
             "id": 4,
@@ -34,7 +33,8 @@
             "description": "Description of dandang merah",
             "size": 80,
             "uom": "grams",
-            "price": 8000
+            "price": 8000,
+            "stock": 100
         },
         {
             "id": 5,
@@ -42,7 +42,8 @@
             "description": "Description of dandang merah",
             "size": 400,
             "uom": "grams",
-            "price": 15000
+            "price": 15000,
+            "stock": 100
         },
         {
             "id": 6,
@@ -50,7 +51,8 @@
             "description": "Description of dandang biru",
             "size": 40,
             "uom": "grams",
-            "price": 5000
+            "price": 5000,
+            "stock": 100
         },
         {
             "id": 7,
@@ -58,7 +60,8 @@
             "description": "Description of dandang biru",
             "size": 80,
             "uom": "grams",
-            "price": 7000
+            "price": 7000,
+            "stock": 100
         },
         {
             "id": 8,
@@ -66,14 +69,16 @@
             "description": "Description of dandang biru",
             "size": 400,
             "uom": "grams",
-            "price": 13000
+            "price": 13000,
+            "stock": 100
         },
         {
             "id": 9,
             "name": "Description of dandang putih",
             "size": 35,
             "uom": "grams",
-            "price": 7000
+            "price": 7000,
+            "stock": 100
         },
         {
             "id": 10,
@@ -81,7 +86,8 @@
             "description": "Description of dandang hijau",
             "size": 35,
             "uom": "grams",
-            "price": 6000
+            "price": 6000,
+            "stock": 100
         },
         {
             "id": 11,
@@ -89,7 +95,8 @@
             "description": "Description of dandang kraff",
             "size": 35,
             "uom": "grams",
-            "price": 9000
+            "price": 9000,
+            "stock": 100
         },
         {
             "id": 12,
@@ -97,7 +104,8 @@
             "description": "Description of dandang vanilla tea",
             "size": 50,
             "uom": "grams",
-            "price": 6000
+            "price": 6000,
+            "stock": 100
         },
 
         {
@@ -106,7 +114,8 @@
             "description": "Description of dandang jasmine tea celup",
             "size": 8,
             "uom": "pcs",
-            "price": 7000
+            "price": 7000,
+            "stock": 100
         },
         {
             "id": 14,
@@ -114,7 +123,8 @@
             "description": "Description of dandang jasmine tea celup",
             "size": 25,
             "uom": "pcs",
-            "price": 14000
+            "price": 14000,
+            "stock": 100
         },
         {
             "id": 15,
@@ -122,7 +132,8 @@
             "description": "Description of dandang jasmine tea celup",
             "size": 100,
             "uom": "pcs",
-            "price": 31000
+            "price": 31000,
+            "stock": 100
         },
 
         {
@@ -131,7 +142,8 @@
             "description": "Description of dandang black tea celup",
             "size": 4,
             "uom": "pcs",
-            "price": 7000
+            "price": 7000,
+            "stock": 100
         },
         {
             "id": 17,
@@ -139,7 +151,8 @@
             "description": "Description of dandang black tea celup",
             "size": 25,
             "uom": "pcs",
-            "price": 13000
+            "price": 13000,
+            "stock": 100
         },
         {
             "id": 18,
@@ -147,7 +160,8 @@
             "description": "Description of dandang black tea celup",
             "size": 100,
             "uom": "pcs",
-            "price": 26000
+            "price": 26000,
+            "stock": 100
         },
 
         {
@@ -156,7 +170,8 @@
             "description": "Description of dandang green tea celup",
             "size": 25,
             "uom": "pcs",
-            "price": 12000
+            "price": 12000,
+            "stock": 100
         },
         {
             "id": 20,
@@ -164,7 +179,8 @@
             "description": "Description of dandang green tea celup",
             "size": 100,
             "uom": "pcs",
-            "price": 45000
+            "price": 45000,
+            "stock": 100
         },
         {
             "id": 21,
@@ -172,7 +188,8 @@
             "description": "Description of dandang vanilla tea celup",
             "size": 25,
             "uom": "pcs",
-            "price": 10000
+            "price": 10000,
+            "stock": 100
         },
         {
             "id": 22,
@@ -180,7 +197,8 @@
             "description": "Description of dandang vanilla tea celup",
             "size": 100,
             "uom": "pcs",
-            "price": 38000
+            "price": 38000,
+            "stock": 100
         },
         {
             "id": 23,
@@ -188,7 +206,8 @@
             "description": "Description of dandang teh gula",
             "size": 18,
             "uom": "grams",
-            "price": 4000
+            "price": 4000,
+            "stock": 100
         }
     ],
 
