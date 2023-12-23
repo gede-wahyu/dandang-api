@@ -74,7 +74,8 @@
         },
         {
             "id": 9,
-            "name": "Description of dandang putih",
+            "name": "dandang putih",
+            "description": "Description of dandang putih",
             "size": 35,
             "uom": "grams",
             "price": 7000,
